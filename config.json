@@ -1,7 +1,7 @@
 {
     "config_version": 3,
-    "anime_url": "https://anime.anibiplay.my.id/",
-    "user_url": "https://user.anibiplay.my.id/",
-    "anime_url_backup": "https://hudaxcode.web.id/",
-    "user_url_backup": "https://panel.hudaxcode.web.id/"
+    "anime_url": "https://anime.anibiplay.my.id/api/",
+    "user_url": "https://user.anibiplay.my.id/api/",
+    "anime_url_backup": "https://hudaxcode.web.id/api/",
+    "user_url_backup": "https://panel.hudaxcode.web.id/api/"
 }
